@@ -20,7 +20,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class MainWindow : Window
 	{
-		static string launcerConfigUrl = "https://raw.githubusercontent.com/XmasGame/eternalot-launcher/refs/heads/main/launcher_config.json?token=GHSAT0AAAAAADMYN2V333YXSCHQQD2LBX6E2HKRJFA";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/XmasGame/eternalot-launcher/refs/heads/main/launcher_config.json";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 
