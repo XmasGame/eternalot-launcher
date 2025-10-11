@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "15.03",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.0.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/XmasGame/eternalot-launcher/archive/refs/heads/main.zip",
+	"newClientUrl" : "https://github.com/XmasGame/eternalot-launcher/releases/download/eternalot/eternalot.zip",
 	"clientExecutable": "client.exe"
 }
