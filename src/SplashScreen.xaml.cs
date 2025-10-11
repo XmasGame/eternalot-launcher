@@ -18,7 +18,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class SplashScreen : Window
 	{
-		static string launcerConfigUrl = "https://raw.githubusercontent.com/XmasGame/eternalot-launcher/refs/heads/main/launcher_config.json?token=GHSAT0AAAAAADMYN2V2IKGVRDHRS7LTAMHM2HKQJIA";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/XmasGame/eternalot-launcher/refs/heads/main/launcher_config.json?token=GHSAT0AAAAAADMYN2V3EQIL62ITXB4JHXWG2HKQ2RA";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 
