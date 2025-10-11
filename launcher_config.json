@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://download1478.mediafire.com/lomaicv8xtogIWA_abZJ7Eq1on5GwV-SsgXPkOg5XaynpcVASR7NjOwhKXb-joRzGFY9DaR-LH1GYCAnlJXu22wxB4w02QlqGe187W58DHZs7QZRRcLqq7fW9wl2yLM4N_mSxiWIXOOIcEb0N1Xz_EpmMqwuHiUelOpK9IG2CnaouMI/ku45pjubdqwv88n/EternalOT.zip",
+	"newClientUrl" : "https://github.com/XmasGame/eternalot-launcher/archive/refs/heads/main.zip",
 	"clientExecutable": "client.exe"
 }

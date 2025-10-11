@@ -18,7 +18,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class SplashScreen : Window
 	{
-		static string launcerConfigUrl = "https://raw.githubusercontent.com/opentibiabr/canary-launcher/main/launcher_config.json";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/XmasGame/eternalot-launcher/refs/heads/main/launcher_config.json?token=GHSAT0AAAAAADMYN2V3EZBSLPKZJ52UZ4VG2HKOECQ";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 
